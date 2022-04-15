@@ -8,8 +8,7 @@ theme: /
 
     state: Hello
         intent!: /hello
-        a: Hello hello
-    state: Test 
+        a: Hello sir
         intent!: /test me
         a: oh the bring it on
     state: Bye
